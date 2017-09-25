@@ -1,6 +1,16 @@
 #include "car.h"
 
-car::car()
+car::car ()
+{
+
+}
+
+double car::fillGas()
+{
+
+}
+
+double car::drive()
 {
 
 }

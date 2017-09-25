@@ -6,7 +6,7 @@ CONFIG -= qt
 SOURCES += main.cpp \
     position.cpp \
     beaver.cpp \
-    vehicles.cpp \
+    vehicle.cpp \
     car.cpp
 
 HEADERS += \
@@ -14,5 +14,5 @@ HEADERS += \
     ipositionprovider.h \
     position.h \
     beaver.h \
-    vehicles.h \
+    vehicle.h \
     car.h

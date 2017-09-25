@@ -12,7 +12,6 @@ public:
     double getXPosition();
     double getYPosition();
 
-    // Legg til get- og set-funksjoner her.
 
 private:
 
