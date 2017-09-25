@@ -4,9 +4,15 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += main.cpp \
-    position.cpp
+    position.cpp \
+    beaver.cpp \
+    vehicles.cpp \
+    car.cpp
 
 HEADERS += \
     ianimal.h \
     ipositionprovider.h \
-    position.h
+    position.h \
+    beaver.h \
+    vehicles.h \
+    car.h
